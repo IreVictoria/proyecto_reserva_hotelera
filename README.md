@@ -75,7 +75,8 @@ Después Estructuramos y creamos por patrón modular el orden de nuestras carpet
 </p>
 
 
-[![Captura-de-pantalla-organizacion-carpetas.png](https://i.postimg.cc/zXMDm17r/Captura-de-pantalla-organizacion-carpetas.png)](https://postimg.cc/7f3r7djs)
+[![carpetas.png](https://i.postimg.cc/nrX8TC6Q/carpetas.png)](https://postimg.cc/0K1Hy258)
+
 
 
 <p>
