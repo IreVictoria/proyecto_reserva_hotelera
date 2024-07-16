@@ -433,8 +433,7 @@ Para poder probar el proyecto se creó un archivo llamado `prueba.json` con el f
 
 
 
-[![1-2-update.png](https://i.postimg.cc/SxKjWrKZ/1-2-update.png)](https://postimg.cc/JG918jZJ)
-
+[![nueva-update.png](https://i.postimg.cc/FHbGLh7b/nueva-update.png)](https://postimg.cc/bZJQXc0d)
 
 
 
