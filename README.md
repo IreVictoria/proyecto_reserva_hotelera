@@ -395,6 +395,41 @@ Para poder probar el proyecto se creó un archivo llamado `prueba.json` con el f
 [![Captura-de-pantalla-create-2.png](https://i.postimg.cc/CxghMs3P/Captura-de-pantalla-create-2.png)](https://postimg.cc/Wh5LXgbg)
 
 
+<p>
+  
+ 2.- Utilizaremos ahora el `Read All Reservation` el cual nos traera en un arreglo todas las reservas creadas. Creamos un new request con una petición `GET` 
+ 
+</p>
+
+[![Captura-de-pantalla-read-all-reservation.png](https://i.postimg.cc/nrmxpX0f/Captura-de-pantalla-read-all-reservation.png)](https://postimg.cc/BPJkCQrm)
+
+<p>
+  
+3.- Luego utilizaremos el `Read One Reservation`el cual por medio de un `id` nos traera solo una reserva en especifica. Creamos un new request con una petición `GET`  como se muestran en las siguientes imagenes: 
+  
+</p>
+
+
+[![Captura-de-pantalla-read-one-1.png](https://i.postimg.cc/jj2GRWS3/Captura-de-pantalla-read-one-1.png)](https://postimg.cc/GB0MQmYv)
+
+
+[![Captura-de-pantalla-read-one-2.png](https://i.postimg.cc/TwrQxGgH/Captura-de-pantalla-read-one-2.png)](https://postimg.cc/Pp51bg6m)
+
+
+<p>
+  
+4.- Ahora utilizaremos el `Update Reservation` el cual nos permitira modificar cambios en alguna reserva. Creamos un new request con una petición `PUT`, como se muestran en las siguientes imagenes: 
+
+</p>
+
+[![Captura-de-pantalla-update-1.png](https://i.postimg.cc/9MnXW52Z/Captura-de-pantalla-update-1.png)](https://postimg.cc/G8vnQfHm)
+
+
+[![Captura-de-pantalla-update-2.png](https://i.postimg.cc/QM6KWzsx/Captura-de-pantalla-update-2.png)](https://postimg.cc/QBTd20HR)
+
+
+[![Captura-de-pantalla-update-3.png](https://i.postimg.cc/13s87S33/Captura-de-pantalla-update-3.png)](https://postimg.cc/RNpCqjtk)
+
 
 
 
