@@ -419,11 +419,12 @@ Para poder probar el proyecto se creó un archivo llamado `prueba.json` con el f
 
 <p>
   
-4.- Ahora utilizaremos el `Update Reservation` el cual nos permitira modificar cambios en alguna reserva. Creamos un new request con una petición `PUT`, como se muestran en las siguientes imagenes: 
+4.- Ahora utilizaremos el `Update Reservation` el cual nos permitira modificar cambios en alguna reserva en este caso cambiaremos el nombre del cliente. Creamos un new request con una petición `PUT`, como se muestran en las siguientes imagenes: 
 
 </p>
 
 [![Captura-de-pantalla-update-1.png](https://i.postimg.cc/9MnXW52Z/Captura-de-pantalla-update-1.png)](https://postimg.cc/G8vnQfHm)
+
 
 
 
@@ -433,10 +434,35 @@ Para poder probar el proyecto se creó un archivo llamado `prueba.json` con el f
 
 
 
+
 [![Captura-de-pantalla-update-3.png](https://i.postimg.cc/13s87S33/Captura-de-pantalla-update-3.png)](https://postimg.cc/RNpCqjtk)
 
 
+<p>
 
+  
+5.- Por último utilizaremos el `Delete Reservation`para eliminar una reserva, por medio de un `id`. Creamos un new request con una petición `DELETE`, como se muestran en las siguientes imagenes: 
+
+
+</p>
+
+
+
+[![Captura-de-pantalla-delete-1.png](https://i.postimg.cc/tggtfW4J/Captura-de-pantalla-delete-1.png)](https://postimg.cc/87q6fFWg)
+
+
+
+
+
+
+[![Captura-de-pantalla-delete-2.png](https://i.postimg.cc/L8xjz53p/Captura-de-pantalla-delete-2.png)](https://postimg.cc/zyRLNJQt)
+
+
+
+
+
+
+[![Captura-de-pantalla-delete3.png](https://i.postimg.cc/MGXVtw9j/Captura-de-pantalla-delete3.png)](https://postimg.cc/1gh85kh9)
 
 
 
