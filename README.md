@@ -136,6 +136,42 @@ URL_BASE=/api
 
 <p>
   
+En el archivo `modelReserva.js`  creamos la clase `reservations` que contendra todas las propiedades y atributos que utilizaremos para crear las reservas del hotel. 
+
+
+</p>
+
+
+```javascript
+//Patrón Modelo 
+
+class Reservation {
+    constructor (id, nameHotel, numberGuests, typeRoom, checkIn, checkOut, name, email, paymentStatus){
+        this.id = id;
+        this.nameHotel = nameHotel;
+        this.numberGuests = numberGuests;
+        this.typeRoom = typeRoom;
+        this.checkIn = checkIn;
+        this.checkOut = checkOut;
+        this.name = name;
+        this.email = email;
+        this.paymentStatus = paymentStatus
+
+    }
+
+    getInfo () {
+        return (`Nombre: ${this.name} Email: ${this.email} Nombre hotel: ${this.nameHotel} Fecha de entrada: ${this.checkIn} Fecha de salida: ${this.checkOut} Tipo de habitación: ${this.typeRoom} Numero de personas: ${this.numberGuests} Estado de pago: ${this.paymentStatus}`); 
+    }
+  
+}
+// Exportar objetos
+module.exports =  Reservation ;
+
+```
+
+
+<p>
+  
 Después estableceremos las rutas de `peticiones CRUD` en nuestro archivo routerReservas.js. 
 
 </p>
