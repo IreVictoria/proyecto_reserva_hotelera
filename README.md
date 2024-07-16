@@ -397,7 +397,7 @@ Para poder probar el proyecto se creó un archivo llamado `prueba.json` con el f
 
 <p>
   
- 2.- Utilizaremos ahora el `Read All Reservation` el cual nos traera en un arreglo todas las reservas creadas. Creamos un new request con una petición `GET` 
+ 2.- Utilizaremos ahora el `Read All Reservation` el cual nos traera en un arreglo todas las reservas creadas (que en este caso solo creamos 2 reservas). Creamos un new request con una petición `GET` 
  
 </p>
 
@@ -405,7 +405,7 @@ Para poder probar el proyecto se creó un archivo llamado `prueba.json` con el f
 
 <p>
   
-3.- Luego utilizaremos el `Read One Reservation`el cual por medio de un `id` nos traera solo una reserva en especifica. Creamos un new request con una petición `GET`  como se muestran en las siguientes imagenes: 
+3.- Luego utilizaremos el `Read One Reservation` el cual por medio de un `id` nos traera solo una reserva en especifica. Creamos un new request con una petición `GET`  como se muestran en las siguientes imagenes: 
   
 </p>
 
@@ -420,29 +420,29 @@ Para poder probar el proyecto se creó un archivo llamado `prueba.json` con el f
 
 <p>
   
-4.- Ahora utilizaremos el `Update Reservation` el cual nos permitira modificar cambios en alguna reserva en este caso cambiaremos el nombre del cliente. Creamos un new request con una petición `PUT`, como se muestran en las siguientes imagenes: 
+4.- Ahora utilizaremos el `Update Reservation` el cual nos permitira modificar cambios en alguna reserva en este caso cambiaremos el nombre del cliente y lo haremos también requiriendo un `id`. Creamos un new request con una petición `PUT`, como se muestran en las siguientes imagenes: 
 
 </p>
 
-[![Captura-de-pantalla-update-1.png](https://i.postimg.cc/9MnXW52Z/Captura-de-pantalla-update-1.png)](https://postimg.cc/G8vnQfHm)
+[![1-1-update.png](https://i.postimg.cc/B6BFnv6k/1-1-update.png)](https://postimg.cc/phyr0RKJ)
 
 
 
 
 
-[![Captura-de-pantalla-update-2.png](https://i.postimg.cc/QM6KWzsx/Captura-de-pantalla-update-2.png)](https://postimg.cc/QBTd20HR)
+[![1-2-update.png](https://i.postimg.cc/SxKjWrKZ/1-2-update.png)](https://postimg.cc/JG918jZJ)
 
 
 
 
 
-[![Captura-de-pantalla-update-3.png](https://i.postimg.cc/13s87S33/Captura-de-pantalla-update-3.png)](https://postimg.cc/RNpCqjtk)
+[![1-3-update.png](https://i.postimg.cc/SsLy02s2/1-3-update.png)](https://postimg.cc/k64rK5Wq)
 
 
 <p>
 
   
-5.- Por último utilizaremos el `Delete Reservation`para eliminar una reserva, por medio de un `id`. Creamos un new request con una petición `DELETE`, como se muestran en las siguientes imagenes: 
+5.- Por último utilizaremos el `Delete Reservation` para eliminar una reserva, requiriendo un `id`. Creamos un new request con una petición `DELETE`, como se muestran en las siguientes imagenes: 
 
 
 </p>
