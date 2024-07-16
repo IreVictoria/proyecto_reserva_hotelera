@@ -430,13 +430,20 @@ Para poder probar el proyecto se creó un archivo llamado `prueba.json` con el f
 
 
 
+
+
+
 [![1-2-update.png](https://i.postimg.cc/SxKjWrKZ/1-2-update.png)](https://postimg.cc/JG918jZJ)
 
 
 
 
 
-[![1-3-update.png](https://i.postimg.cc/SsLy02s2/1-3-update.png)](https://postimg.cc/k64rK5Wq)
+
+
+
+
+[1-3-update.png](https://postimg.cc/k64rK5Wq)
 
 
 <p>
