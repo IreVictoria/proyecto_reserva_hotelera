@@ -442,8 +442,9 @@ Para poder probar el proyecto se creó un archivo llamado `prueba.json` con el f
 
 
 
+[![1-3-update.png](https://i.postimg.cc/SsLy02s2/1-3-update.png)](https://postimg.cc/k64rK5Wq)
 
-[1-3-update.png](https://postimg.cc/k64rK5Wq)
+
 
 
 <p>
