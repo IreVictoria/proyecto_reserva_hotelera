@@ -63,7 +63,10 @@ Antes de comenzar a construir este proyecto debemos primero nuestra carpeta en d
 
 </p>
 
-foto 
+[![Captura-de-pantalla-terminal-0.png](https://i.postimg.cc/ZYH0MgXb/Captura-de-pantalla-terminal-0.png)](https://postimg.cc/vD1Q1PQk)
+
+
+[![Captura-de-pantalla-terminal-1.png](https://i.postimg.cc/Sx2sjKRR/Captura-de-pantalla-terminal-1.png)](https://postimg.cc/21YmKr4N)
 
 <p>
   
