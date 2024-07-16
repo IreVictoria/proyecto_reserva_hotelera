@@ -377,3 +377,26 @@ Para poder probar el proyecto se creó un archivo llamado `prueba.json` con el f
 ```
 
 ------------
+
+### Simulación llamadas APIS. 
+
+------------
+
+
+<p>
+  
+1.- Primero utilizaremos el `Create Reservation` para crear una reserva. Creamos un new request con una petición `POST`. Realizaremos la creación de dos reservas como se muestran en las siguientes imagenes: 
+
+</p>
+
+[![Captura-de-pantalla-create-1.png](https://i.postimg.cc/RCWVgF1R/Captura-de-pantalla-create-1.png)](https://postimg.cc/MX8STzFM)
+
+
+[![Captura-de-pantalla-create-2.png](https://i.postimg.cc/CxghMs3P/Captura-de-pantalla-create-2.png)](https://postimg.cc/Wh5LXgbg)
+
+
+
+
+
+
+
