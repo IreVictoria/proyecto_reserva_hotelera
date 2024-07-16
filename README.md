@@ -74,7 +74,9 @@ Después Estructuramos y creamos por patrón modular el orden de nuestras carpet
 
 </p>
 
+
 [![Captura-de-pantalla-organizacion-carpetas.png](https://i.postimg.cc/zXMDm17r/Captura-de-pantalla-organizacion-carpetas.png)](https://postimg.cc/7f3r7djs)
+
 
 <p>
   
@@ -82,7 +84,9 @@ En nuestro archivo `package.json` establecemos el `script start` (nodemon) para 
 
 </p>
 
+
 [![Captura-de-pantalla-script-y-dependencias.png](https://i.postimg.cc/YSBp9fTD/Captura-de-pantalla-script-y-dependencias.png)](https://postimg.cc/ZWjks3b6)
+
 
 <p>
   
