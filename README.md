@@ -413,6 +413,7 @@ Para poder probar el proyecto se creó un archivo llamado `prueba.json` con el f
 [![Captura-de-pantalla-read-one-1.png](https://i.postimg.cc/jj2GRWS3/Captura-de-pantalla-read-one-1.png)](https://postimg.cc/GB0MQmYv)
 
 
+
 [![Captura-de-pantalla-read-one-2.png](https://i.postimg.cc/TwrQxGgH/Captura-de-pantalla-read-one-2.png)](https://postimg.cc/Pp51bg6m)
 
 
@@ -425,7 +426,11 @@ Para poder probar el proyecto se creó un archivo llamado `prueba.json` con el f
 [![Captura-de-pantalla-update-1.png](https://i.postimg.cc/9MnXW52Z/Captura-de-pantalla-update-1.png)](https://postimg.cc/G8vnQfHm)
 
 
+
+
 [![Captura-de-pantalla-update-2.png](https://i.postimg.cc/QM6KWzsx/Captura-de-pantalla-update-2.png)](https://postimg.cc/QBTd20HR)
+
+
 
 
 [![Captura-de-pantalla-update-3.png](https://i.postimg.cc/13s87S33/Captura-de-pantalla-update-3.png)](https://postimg.cc/RNpCqjtk)
