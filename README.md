@@ -410,11 +410,12 @@ Para poder probar el proyecto se creó un archivo llamado `prueba.json` con el f
 </p>
 
 
-[![Captura-de-pantalla-read-one-1.png](https://i.postimg.cc/jj2GRWS3/Captura-de-pantalla-read-one-1.png)](https://postimg.cc/GB0MQmYv)
+[![1-imagen-nueva.png](https://i.postimg.cc/7YMRr1wn/1-imagen-nueva.png)](https://postimg.cc/jL2cz7WD)
 
 
 
-[![Captura-de-pantalla-read-one-2.png](https://i.postimg.cc/TwrQxGgH/Captura-de-pantalla-read-one-2.png)](https://postimg.cc/Pp51bg6m)
+[![2-imagen-nueva.png](https://i.postimg.cc/MGX3BhR9/2-imagen-nueva.png)](https://postimg.cc/WDL7LY5Z)
+
 
 
 <p>
