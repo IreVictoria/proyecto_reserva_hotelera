@@ -1,0 +1,48 @@
+[
+    {
+        "nameHotel":"Hotel Paraíso",
+        "numberGuests": "2",
+        "typeRoom": "Doble",
+        "checkIn": "2024-04-10",
+        "checkOut": "2024-04-30",
+        "name": "Leila Fernández",
+        "email": "leila.fernandez@ejemplo.com", 
+        "paymentStatus": "pagado"
+
+    },
+    {
+        "nameHotel":"Hotel Paraíso",
+        "numberGuests": "1 personas",
+        "typeRoom": "Individual",
+        "checkIn": "2024-03-05",
+        "checkOut": "2024-04-01",
+        "name": "Magdalena Sanhueza",
+        "email": "magdalena.sanhueza@ejemplo.com", 
+        "paymentStatus": "pagado"
+
+    },
+    {
+        "nameHotel":"Hotel Paraíso",
+        "numberGuests": "3 personas",
+        "typeRoom": "Doble",
+        "checkIn": "2024-05-21",
+        "checkOut": "2024-05-30",
+        "name": "Irene Guzmán",
+        "email": "Irene.guzman@ejemplo.com", 
+        "paymentStatus": "pagado"
+
+    },
+    {
+        "nameHotel":"Hotel Paraíso",
+        "numberGuests": "1 personas",
+        "typeRoom": "Suite",
+        "checkIn": "2024-06-17",
+        "checkOut": "2024-06-27",
+        "name": "Yoselyn Navarrete",
+        "email": "yoselyn.navarrete@ejemplo.com", 
+        "paymentStatus": "pagado"
+
+    }
+   
+
+]
